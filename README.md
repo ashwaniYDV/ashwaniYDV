@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=ashwaniYDV&style=flat-square)
+[![Github](https://img.shields.io/github/followers/ashwaniYDV?label=Follow&style=social)](https://github.com/ashwaniYDV)
 
 <!--
 **ashwaniYDV/ashwaniYDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
