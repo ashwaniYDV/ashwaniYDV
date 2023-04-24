@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ashwaniYDV&style=flat-square)
 [![Github](https://img.shields.io/github/followers/ashwaniYDV?label=Follow&style=social)](https://github.com/ashwaniYDV)
 
-<h4> Socials</h4>
+<h4>Socials</h4>
 <div>  
 <!--   linkedin -->
   <a href="https://www.linkedin.com/in/ashwaniydv/" target="_blank">
@@ -41,3 +41,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h4>Useful Repos</h4>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
