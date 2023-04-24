@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <h4>Useful Repos</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgoDsLib)](https://github.com/ashwaniYDV/AlgoDsLib)
