@@ -46,3 +46,4 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgoDsLib)](https://github.com/ashwaniYDV/AlgoDsLib)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=Load-flow-analysis-Power-Systems)](https://github.com/ashwaniYDV/Load-flow-analysis-Power-Systems)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=CPP-Reconstructing-Data-Structures)](https://github.com/ashwaniYDV/CPP-Reconstructing-Data-Structures)
