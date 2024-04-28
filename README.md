@@ -1,6 +1,6 @@
 ### Namaste <img height="20px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />
 
-<h4>Socials</h4>
+<h4>Connect with me</h4>
 <div>  
 <!--   linkedin -->
   <a href="https://www.linkedin.com/in/ashwaniydv/" target="_blank">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h4>Useful Repos</h4>
+<h4>Key Projects</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=url-shortner-redis)](https://github.com/ashwaniYDV/url-shortner-redis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=Log-Structured-KV-Storage-Engine)](https://github.com/ashwaniYDV/Log-Structured-KV-Storage-Engine)
