@@ -1,4 +1,4 @@
-<h4>Connect with me</h4>
+<h3>Connect with me</h4>
 <div>  
 <!--   linkedin -->
   <a href="https://www.linkedin.com/in/ashwaniydv/" target="_blank">
@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h4>Open Source Projects I contributed to</h4>
+<h3>Open Source Projects I contributed to</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duckdb&repo=duckdb)](https://github.com/duckdb/duckdb)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiceDB&repo=dice)](https://github.com/DiceDB/dice)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat)](https://github.com/RocketChat/Rocket.Chat)
 
-<h4>My Key Projects</h4>
+<h3>My Key Projects</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=my-wal)](https://github.com/ashwaniYDV/my-wal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=diskbst)](https://github.com/ashwaniYDV/diskbst)
