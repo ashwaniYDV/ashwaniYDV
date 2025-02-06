@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=diskbst)](https://github.com/ashwaniYDV/diskbst)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=go-grpc-cache)](https://github.com/ashwaniYDV/go-grpc-cache)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=my-memalloc-c)](https://github.com/ashwaniYDV/my-memalloc-c)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=url-shortner-redis)](https://github.com/ashwaniYDV/url-shortner-redis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=go-shorty)](https://github.com/ashwaniYDV/go-shorty)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=My-LSM-Tree-cpp)](https://github.com/ashwaniYDV/My-LSM-Tree-cpp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=redis-clone-js)](https://github.com/ashwaniYDV/redis-clone-js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
