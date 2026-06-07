@@ -1,57 +1,25 @@
-<h3>Connect with me</h4>
-<div>  
-<!--   linkedin -->
-  <a href="https://www.linkedin.com/in/ashwaniydv/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-<!--   twitter -->
-  <a href="https://twitter.com/ashwani_iitp" target="_blank">
-    <img src="https://img.shields.io/badge/-twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  
-<!--   instagram -->
-  <a href="https://www.instagram.com/ashwani_fit/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-<!--   facebook -->
-  <a href="https://www.facebook.com/ashwani.iitp18/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  
+<h3>Connect with me</h3>
+<div>
+  <a href="https://www.linkedin.com/in/ashwaniydv/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ashwani_iitp" target="_blank"><img src="https://img.shields.io/badge/-twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ashwani_fit/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/ashwani.iitp18/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 
-<!--
-**ashwaniYDV/ashwaniYDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Open Source Projects I contributed to</h3>
 
-Here are some ideas to get you started:
+[![DuckDB](./profile/duckdb.svg)](https://github.com/duckdb/duckdb)
+[![DiceDB](./profile/dice.svg)](https://github.com/DiceDB/dice)
+[![Rocket.Chat](./profile/rocketchat.svg)](https://github.com/RocketChat/Rocket.Chat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My Key Projects</h3>
 
-
-<h3>Open Source Projects I contributed to</h4>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duckdb&repo=duckdb)](https://github.com/duckdb/duckdb)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiceDB&repo=dice)](https://github.com/DiceDB/dice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat)](https://github.com/RocketChat/Rocket.Chat)
-
-<h3>My Key Projects</h4>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=my-wal)](https://github.com/ashwaniYDV/my-wal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=diskbst)](https://github.com/ashwaniYDV/diskbst)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=go-grpc-cache)](https://github.com/ashwaniYDV/go-grpc-cache)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=my-memalloc-c)](https://github.com/ashwaniYDV/my-memalloc-c)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=go-shorty)](https://github.com/ashwaniYDV/go-shorty)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=My-LSM-Tree-cpp)](https://github.com/ashwaniYDV/My-LSM-Tree-cpp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=redis-clone-js)](https://github.com/ashwaniYDV/redis-clone-js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgorithmLibrary)](https://github.com/ashwaniYDV/AlgorithmLibrary)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwaniYDV&repo=AlgoDsLib)](https://github.com/ashwaniYDV/AlgoDsLib)
+[![my-wal](./profile/my-wal.svg)](https://github.com/ashwaniYDV/my-wal)
+[![diskbst](./profile/diskbst.svg)](https://github.com/ashwaniYDV/diskbst)
+[![go-grpc-cache](./profile/go-grpc-cache.svg)](https://github.com/ashwaniYDV/go-grpc-cache)
+[![my-memalloc-c](./profile/my-memalloc-c.svg)](https://github.com/ashwaniYDV/my-memalloc-c)
+[![go-shorty](./profile/go-shorty.svg)](https://github.com/ashwaniYDV/go-shorty)
+[![My-LSM-Tree-cpp](./profile/my-lsm-tree-cpp.svg)](https://github.com/ashwaniYDV/My-LSM-Tree-cpp)
+[![redis-clone-js](./profile/redis-clone-js.svg)](https://github.com/ashwaniYDV/redis-clone-js)
+[![AlgorithmLibrary](./profile/algorithm-library.svg)](https://github.com/ashwaniYDV/AlgorithmLibrary)
+[![AlgoDsLib](./profile/algods-lib.svg)](https://github.com/ashwaniYDV/AlgoDsLib)
